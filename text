@@ -4,7 +4,7 @@ class PrimeNumbers
 {
    public static void main(String args[])
    {
-      int n, status = 1, num = 3;
+      int n, status = 1, num = 5;
  
       Scanner in = new Scanner(System.in);
       System.out.println("Enter the number of prime numbers you want");
